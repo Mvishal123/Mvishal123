@@ -1,0 +1,5 @@
+- 👋 Hey, I am Vishal. A freshman pursuing B.Tech CSE AI and Data Engineering
+- 👀 I’m interested in learning and travelling around the world
+- 🌱 I’m currently learning python, Java, DSA and Web Development.
+- 💞️ I’m looking to contribute to Open Source projects.
+- 📫 Reach Me at Twitter. username: Mvishal123
