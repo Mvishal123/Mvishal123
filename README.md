@@ -28,6 +28,8 @@
 
 ### Recent Blogs on hashnode
 <!-- BLOG-POST-LIST:START -->
+- [A guide to boost productivity](https://mvishal.hashnode.dev/a-guide-to-boost-productivity)
+- [5 Mistakes to avoid as a beginner to accelerate your learning](https://mvishal.hashnode.dev/5-mistakes-to-avoid-as-a-beginner-to-accelerate-your-learning)
 <!-- BLOG-POST-LIST:END -->
 
 
