@@ -26,7 +26,7 @@
    <img height="25px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
----
+
 ## <a href="https://mvishal.hashnode.dev/"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on hashnode
 <!-- BLOG-POST-LIST:START -->
 - [A guide to boost productivity](https://mvishal.hashnode.dev/a-guide-to-boost-productivity)
