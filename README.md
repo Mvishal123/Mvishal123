@@ -29,6 +29,7 @@
 ---
 ## <a href="https://mvishal.hashnode.dev/"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on hashnode
 <!-- BLOG-POST-LIST:START -->
+- [The only 5 git commands you need to get started](https://mvishal.hashnode.dev/the-only-5-git-commands-you-need-to-get-started)
 - [A guide to boost productivity](https://mvishal.hashnode.dev/a-guide-to-boost-productivity)
 - [5 Mistakes to avoid as a beginner to accelerate your learning](https://mvishal.hashnode.dev/5-mistakes-to-avoid-as-a-beginner-to-accelerate-your-learning)
 <!-- BLOG-POST-LIST:END -->
