@@ -3,11 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 ### About
-- Freshman pusrsuing B.Tech CSE - AI and Data Engineering.
-- Currently learning Java and JavaScript.
-- Working on myself and contributing to open source projects.
-- My dream is to travel all around the world.🌏
-- Enjoy connecting, collaborating and geeking out with people 💗
+- Web development
 - let's connect! Check out my social links.
 
 ### <p>Find me on</p>
@@ -17,14 +13,19 @@
   <a href="https://mvishal.hashnode.dev/"><img height="25px" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
 </p>
 
-### <p>Languages and tools</p>
+### <p>Languages</p>
 <p>
-   <img height="25px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
-   <img height="25px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-   <img height="25px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-   <img height="25px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA"/>
-   <img height="25px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+  <img height="25px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img height="25px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA"/>
+  <img height="25px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS"/>
+  <img height="25px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img height="25px" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"/>
+  <img height="25px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img height="25px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+  <img height="25px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img height="25px" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap"/>
+  
+ </p>
 
 ---
 ## <a href="https://mvishal.hashnode.dev/"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on hashnode
@@ -34,14 +35,15 @@
 - [A guide to boost productivity](https://mvishal.hashnode.dev/a-guide-to-boost-productivity)
 - [5 Mistakes to avoid as a beginner to accelerate your learning](https://mvishal.hashnode.dev/5-mistakes-to-avoid-as-a-beginner-to-accelerate-your-learning)
 <!-- BLOG-POST-LIST:END -->
----
+
+<!-- ---
 <details>
 
 <summary><h2>My GitHub Stats</h2></summary>
 
-<div align = "center">
+<div align = "center"> -->
 
-<h2>My GitHub Stats<img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
+<!-- <h2>My GitHub Stats<img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
 
 </div>
 <div align="center">
@@ -59,7 +61,7 @@
 </td>
 </tr>
 
-</details>
+</details> -->
 
 
 
