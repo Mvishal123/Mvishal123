@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 ### About
-- Web development
+- Full stack web developer
 - let's connect! Check out my social links.
 
 ### <p>Find me on</p>
