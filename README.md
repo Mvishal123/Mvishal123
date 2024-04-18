@@ -1,6 +1,6 @@
 <!-- ![github_frontpage](https://user-images.githubusercontent.com/113995907/213905835-40115ceb-f65a-4b63-a709-d4c76231e8ed.png) -->
 ## Hey all 👋. Welcome!!
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 ### About
 - Full stack web developer
