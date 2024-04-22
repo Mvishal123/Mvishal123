@@ -46,6 +46,7 @@
 ---
 ## <a href="https://mvishal.hashnode.dev/"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on hashnode
 <!-- BLOG-POST-LIST:START -->
+- [The secret to scaling an application to millions of users: Microservices or Monolith architecture](https://mvishal.hashnode.dev/the-secret-to-scaling-an-application-to-millions-of-users-microservices-or-monolith-architecture)
 - [The Searching Algorithms](https://mvishal.hashnode.dev/the-searching-algorithms)
 - [The only 5 git commands you need to get started](https://mvishal.hashnode.dev/the-only-5-git-commands-you-need-to-get-started)
 - [A guide to boost productivity](https://mvishal.hashnode.dev/a-guide-to-boost-productivity)
