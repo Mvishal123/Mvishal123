@@ -1,13 +1,16 @@
 <!-- ![github_frontpage](https://user-images.githubusercontent.com/113995907/213905835-40115ceb-f65a-4b63-a709-d4c76231e8ed.png) -->
-## Hey all 👋. Welcome!!
+## Hey 👋
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 ### About
-- Full stack web developer
+- Full-stack web developer
+- Building scalable applications
 - let's connect! Check out my social links.
+
 
 ### <p>Find me on</p>
 <p>
+  <a href="https://vishaldevportfolio.vercel.app">Portfolio</a>
   <a href="https://www.linkedin.com/in/vishal-m0509/"><img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/Mvishalx"><img height="25px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://mvishal.hashnode.dev/"><img height="25px" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
