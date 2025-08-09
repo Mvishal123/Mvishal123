@@ -1,59 +1,45 @@
-## Hey there, I am you friendly neighbourhood spiderman
-<img align="right" alt="coding" width="250" src="https://media.tenor.com/dAo290VJiScAAAAM/spider-man.gif"/>
+# Hey I'm your friendly neighbourhood Spider-Dev! 🕷️🕸️
 
-### You can swing by my spidey portfolio:   
-<a href="https://vishaldevportfolio.vercel.app">portfolio 🕸️</a>
+<img align="center" src="https://giffiles.alphacoders.com/218/218899.gif" height="200px" alt="Spidey swinging"/>
 
-### <p>Find me on</p>
-<p>
-  <a href="https://www.linkedin.com/in/vishal-m0509/"><img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/Mvishalx"><img height="25px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://mvishal.hashnode.dev/"><img height="25px" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
+### 🕸️ Swing by my portfolio  
+[**vishaldevportfolio.vercel.app**](https://vishaldevportfolio.vercel.app)
+
+### 🔗 Let’s Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vishal-m0509/" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/Mvishalx" target="_blank" rel="noopener noreferrer">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://mvishal.hashnode.dev/" target="_blank" rel="noopener noreferrer">
+    <img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="28" />
+  </a>
 </p>
 
-### <a href="https://mvishal.hashnode.dev/"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on hashnode
-<!-- BLOG-POST-LIST:START -->
-- [The secret to scaling an application to millions of users: Microservices or Monolith architecture](https://mvishal.hashnode.dev/the-secret-to-scaling-an-application-to-millions-of-users-microservices-or-monolith-architecture)
-- [The Searching Algorithms](https://mvishal.hashnode.dev/the-searching-algorithms)
-- [The only 5 git commands you need to get started](https://mvishal.hashnode.dev/the-only-5-git-commands-you-need-to-get-started)
-- [A guide to boost productivity](https://mvishal.hashnode.dev/a-guide-to-boost-productivity)
-- [5 Mistakes to avoid as a beginner to accelerate your learning](https://mvishal.hashnode.dev/5-mistakes-to-avoid-as-a-beginner-to-accelerate-your-learning)
-<!-- BLOG-POST-LIST:END -->
+<!--
+### 📚 Recent Blog Highlights
 
-<!-- ---
-<details>
-
-<summary><h2>My GitHub Stats</h2></summary>
-
-<div align = "center"> -->
-
-<!-- <h2>My GitHub Stats<img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif"/></h2>
-
-</div>
-<div align="center">
-<table>
-<tr>
-<td width="45%">
-<a href="http://www.github.com/Mvishal123"><img src="https://github-readme-stats.vercel.app/api?username=Mvishal123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vishal's GitHub stats" /></a> 
-
-</td>
-<td width="45%">
- <a href="http://www.github.com/Mvishal123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mvishal123&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- 
-</table>
-</div>
-</td>
-</tr>
-
-</details> -->
+- [The secret to scaling an application to millions of users: Microservices or Monolith architecture](https://mvishal.hashnode.dev/the-secret-to-scaling-an-application-to-millions-of-users-microservices-or-monolith-architecture)  
+- [The Searching Algorithms](https://mvishal.hashnode.dev/the-searching-algorithms)  
+- [The only 5 git commands you need to get started](https://mvishal.hashnode.dev/the-only-5-git-commands-you-need-to-get-started)  
+- [A guide to boost productivity](https://mvishal.hashnode.dev/a-guide-to-boost-productivity)  
+- [5 Mistakes to avoid as a beginner to accelerate your learning](https://mvishal.hashnode.dev/5-mistakes-to-avoid-as-a-beginner-to-accelerate-your-learning)  
+-->
 
 
 
+#### ⚡ Fun Fact
+> "With great code comes great responsibility." — Me, every day 😄
 
-   
- 
+*Feel free to reach out or swing by my projects — I’m always excited to connect and collaborate!*  
 
-
- 
+<p align="center">
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7a20dd37-60d7-47ab-b095-8a7f5a19588b" />
+</p>
 
 
