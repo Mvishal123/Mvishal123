@@ -1,5 +1,5 @@
 ## Hey there, I am you friendly neighbourhood spiderman
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/dAo290VJiScAAAAM/spider-man.gif"/>
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/dAo290VJiScAAAAM/spider-man.gif"/>
 
 ### You can swing by my spidey portfolio:   
 <a href="https://vishaldevportfolio.vercel.app">portfolio 🕸️</a>
@@ -11,8 +11,7 @@
   <a href="https://mvishal.hashnode.dev/"><img height="25px" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
 </p>
 
----
-## <a href="https://mvishal.hashnode.dev/"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on hashnode
+### <a href="https://mvishal.hashnode.dev/"><img src="https://github.com/Arindam200/Arindam200/blob/main/CDyAuTy75.png" title="Hashnode" alt="Hashnode blog" width="25"/></a> Recent Blogs on hashnode
 <!-- BLOG-POST-LIST:START -->
 - [The secret to scaling an application to millions of users: Microservices or Monolith architecture](https://mvishal.hashnode.dev/the-secret-to-scaling-an-application-to-millions-of-users-microservices-or-monolith-architecture)
 - [The Searching Algorithms](https://mvishal.hashnode.dev/the-searching-algorithms)
