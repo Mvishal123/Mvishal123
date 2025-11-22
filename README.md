@@ -34,9 +34,9 @@
 
 
 #### ⚡ Fun Fact
-> "With great code comes great responsibility." — Me, every day 😄
+> "With great code comes great responsibility." - Me, every day 😄
 
-*Feel free to reach out or swing by my projects — I’m always excited to connect and collaborate!*  
+*Feel free to reach out or swing by my projects - Excited to connect and collaborate!*  
 
 <p align="center">
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7a20dd37-60d7-47ab-b095-8a7f5a19588b" />
